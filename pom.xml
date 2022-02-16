@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<junit.version>4.12</junit.version>
-		<postgresql.connector.version>42.2.9</postgresql.connector.version>
+		<postgresql.connector.version>42.3.3</postgresql.connector.version>
 		<hibernate.entitymanager>5.4.10.Final</hibernate.entitymanager>
 		<log4j>2.13.0</log4j>
 		<spring.version>5.2.2.RELEASE</spring.version>
